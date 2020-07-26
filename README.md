@@ -1,4 +1,4 @@
 # face_expression_recognition
 
-test 2
+this a simple seb based app using deep CNN to classifie faceial expressions 
 
